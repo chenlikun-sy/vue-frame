@@ -1,0 +1,1 @@
+"use strict";define(["vju","vuex","./modules/systemChange","./modules/userInfoChange"],function(e,s,n,u){return e.use(s),new s.Store({modules:{systemChange:n,userInfoChange:u}})});

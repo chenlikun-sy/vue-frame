@@ -1,0 +1,1 @@
+"use strict";define(function(){return{namespaced:!0,state:{isUserLogin:!1},getters:{getIsUserLogin:function(e){return e.isUserLogin}},mutations:{setIsUserLogin:function(e,s){e.isUserLogin=s}}}});

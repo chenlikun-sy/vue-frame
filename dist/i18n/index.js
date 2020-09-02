@@ -1,0 +1,1 @@
+"use strict";define(["vju","vueI18n","./config/en.js","./config/zh.js"],function(e,n,l,o){return window.Vue||(window.Vue=e),new n({locale:localStorage.getItem("locale")||"zh",messages:{zh:o,en:l},silentFallbackWarn:!0})});

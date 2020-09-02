@@ -1,0 +1,1 @@
+"use strict";define({alarmColor:{level1:"#FF0000",level2:"#FFA500",level3:"#FFFF00",level4:"#0000FF",default:"#008000"}});

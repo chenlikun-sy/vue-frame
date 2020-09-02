@@ -1,0 +1,1 @@
+"use strict";define(["../../configs/systemMenus"],function(i){return{getSystemMenus:function(){return new Promise(function(n,e){n(i)})},initialize:function(){return new Promise(function(n,e){n(!0)})}}});

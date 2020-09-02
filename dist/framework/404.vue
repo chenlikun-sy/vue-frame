@@ -1,0 +1,1 @@
+<template><div>页面不存在，无法访问</div></template><script lang='es6'>"use strict";define(["vju"],function(t){return t.component("view-404",{template:template,data:function(){return{}}})});</script>
